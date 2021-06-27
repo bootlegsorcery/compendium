@@ -2,10 +2,7 @@
 title: Passive Information Gathering
 tags: pentesting
 ---
-
-# Passive Information Gathering
-
-_Information gathering in which you gather information without directly interacting with the target or their systems._
+> ℹ️ Information gathering in which you gather information without directly interacting with the target or their systems.
 
 # Physical Domain
 
