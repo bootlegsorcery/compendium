@@ -1,6 +1,6 @@
 ---
 title: Passive Information Gathering
-tags: pentesting
+tags: [Penetration Testing]
 ---
 > ℹ️ Information gathering in which you gather information without directly interacting with the target or their systems.
 
@@ -29,7 +29,7 @@ Knowing _who_ you are attacking is just as important as knowing _what_ you’re 
 
 ### [Hunter.io](http://Hunter.io)
 
-[Find email addresses in seconds * Hunter (Email Hunter)](https://hunter.io/)
+[Find email addresses in seconds* Hunter (Email Hunter)](https://hunter.io/)
 
 ### theHarvester
 
@@ -44,11 +44,11 @@ theharvester -d $DOMAIN -l $RESULT_LIMIT -b $DATA_SOURCE
 [Scylla](https://scylla.so/)
 
 -   sublist3r
--   [](https://ctr.sh/)[https://ctr.sh/](https://ctr.sh/)
+-   [https://ctr.sh/](https://ctr.sh/)
 -   OWASP amass
--   [](https://github.com/tomnomnom/httprobe)[https://github.com/tomnomnom/httprobe](https://github.com/tomnomnom/httprobe)
--   [](https://builtwith.com/)[https://builtwith.com/](https://builtwith.com/)
--   [](https://www.wappalyzer.com/)[https://www.wappalyzer.com/](https://www.wappalyzer.com/)
+-   [https://github.com/tomnomnom/httprobe](https://github.com/tomnomnom/httprobe)
+-   [https://builtwith.com/](https://builtwith.com/)
+-   [https://www.wappalyzer.com/](https://www.wappalyzer.com/)
 -   whatweb
 -   burpsuite can also be used to look at raw responses
 
