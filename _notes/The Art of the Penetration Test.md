@@ -3,8 +3,8 @@ title: The Art of the Penetration Test
 tags: [Penetration Testing]
 ---
 [[Passive Information Gathering]]
+
 This stage involves passive information gathering (i.e. google, whois)
-<br>
 
 [Active Information Gathering](https://www.notion.so/Active-Information-Gathering-4efc485f9e3846f6abeefe48d90b89bc)
 This stage involves active information gathering (i.e. port scanning, dns enumeration)
