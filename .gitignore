@@ -5,3 +5,6 @@ _site
 vendor
 .idea
 .DS_Store
+compendium
+**/.obsidian
+_notes/attachments

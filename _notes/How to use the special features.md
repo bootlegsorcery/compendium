@@ -6,7 +6,7 @@ toc: true
 comments: true
 ---
 
-## The default features
+## The default features - editted
 
 All the default jekyll markdown features are made available such that they don't cause any conflict with the custom features that we have implemented. 
 
